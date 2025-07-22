@@ -27,6 +27,8 @@ Our project is designed as a service within the existing **"MyActual"** applicat
 ## Live Demo
 
 A video demonstrating the application's functionality is available. Further details are provided in the [Functionality](#functionality) section.
+[![Live Demo](demo_full.mp4)](demo_full.mp4)
+
 
 ## Functionality
 
@@ -97,7 +99,7 @@ A video demonstrating the application's functionality is available. Further deta
 
 - Insufficient unit and integration testing
 - Over-reliance on AI for frontend development, leading to a "black box" scenario
-- Challenging collaboration with the teammate due to differences in working methods and time management
+
 
 ### Areas for Improvement
 
