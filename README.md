@@ -24,10 +24,13 @@ Our project is designed as a service within the existing **"MyActual"** applicat
 
 
 
-## Live Demo
+## Demo
 
-A video demonstrating the application's functionality is available. Further details are provided in the [Functionality](#functionality) section.
-[![Live Demo](demo_full.mp4)](demo_full.mp4)
+A video demonstrating the application's functionality is available. 
+[![Watch the demo](https://img.youtube.com/vi/T22knp3O-FM/0.jpg)](https://www.youtube.com/watch?v=T22knp3O-FM)
+
+Further details are provided in the [Functionality](#functionality) section.
+
 
 
 ## Functionality
