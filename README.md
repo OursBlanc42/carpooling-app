@@ -6,6 +6,15 @@ This project was completed during my career transition into the IT field. We col
 
 Since the development was carried out for **Actual**, the codebase cannot be disclosed. However, this project is presented to populate my portfolio and demonstrate my skills.
 
+## Landing Page
+
+A dedicated landing page was created to showcase the project:
+👉 [https://oursblanc42.github.io/carpooling-app/](https://oursblanc42.github.io/carpooling-app/)
+
+It presents the context, challenges, solution, and development team in a clear and accessible way.
+
+
+
 ## Architecture
 
 | Component | Technology |
