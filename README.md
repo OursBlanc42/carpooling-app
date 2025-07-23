@@ -35,12 +35,10 @@ Our project is designed as a service within the existing **"MyActual"** applicat
 
 ## Demo
 
-A video demonstrating the application's functionality is available below ; further details are provided in the [Functionality](#functionality) section.
+A video demonstrating the application's functionality is available. 
+[![Watch the demo](https://img.youtube.com/vi/T22knp3O-FM/0.jpg)](https://www.youtube.com/watch?v=T22knp3O-FM)
 
-
-<video src="https://github.com/user-attachments/assets/e0b89a3e-a561-4973-be8d-06a295c1737d"></video>
-
-
+Further details are provided in the [Functionality](#functionality) section.
 
 
 
